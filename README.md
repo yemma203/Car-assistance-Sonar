@@ -7,7 +7,10 @@ Nice Sophia Antipolis
 Ce projet est un sonar pouvant potentiellement être utilisé sur une voiture taille réelle (bien que dans le cadre de cet UE il sera présenté avec une voiture télécommandé)
 Il permet entre autre de signaler l'utilisateur au moindre obstacle présent devant le véhicule et ainsi permettre à l'utilisateur d'anticiper et d'agir en conséquence.
 
-Comme les sonar de bateau il fonctionne avec un système d'écho: on envoie des ultrasons autour du véhicule à une certaine fréquence et lorsque l'ultrason rentre en contact avec un objet il va revenir plus vite et ainsi signalé un obstacle aux alentours 
+Comme les sonar de bateau il fonctionne avec un système d'écho: on envoie des ultrasons autour du véhicule à une certaine fréquence et lorsque l'ultrason rentre en contact avec un objet il va revenir plus vite et ainsi signalé un obstacle aux alentours
+
+![image](https://user-images.githubusercontent.com/106160039/170998718-e4c8e74d-51f5-458c-9e86-7f237da1da46.png)
+
 
 # Matériel utilisé
 
